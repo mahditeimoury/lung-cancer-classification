@@ -1,0 +1,8 @@
+.idea/
+.venv/
+data/
+The IQ-OTHNCCD lung cancer dataset/
+.ipynb_checkpoints/
+__pycache__/
+*.keras
+*.h5
